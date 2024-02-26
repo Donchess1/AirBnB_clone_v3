@@ -13,7 +13,7 @@ The console is the first segment of the AirBnB project at Holberton School that 
 ## Authors
 
 Abodunrin Stephen Olusola - [Github](https://github.com/Donchess1)
-Alabi Olalekan - [Github](-- )
+Alabi Olalekan - [Github](https://github.com/Deaconlakes)
 
 ## License
 
